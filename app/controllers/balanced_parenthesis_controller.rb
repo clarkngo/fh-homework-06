@@ -1,0 +1,2 @@
+class BalancedParenthesisController < ApplicationController
+end
